@@ -6,7 +6,16 @@
     <img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python Logo">
   </a>
 </div>
-
+<div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
+  <a href="https://gemini.google.com/">
+    <img height="60" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690020.svg" alt="Gemini Logo">
+  </a>
+</div>
+<div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo">
+  </a>
+</div>
 
 
 
