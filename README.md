@@ -6,10 +6,8 @@
     <img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python Logo">
   </a>
 </div>
-<div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
-  <a href="https://gemini.google.com/">
-    <img height="60" src="google_gemini_sparkle_icon_colorful.svg" alt="Gemini Logo">
-  </a>
+<div class ="button-button">
+  <a rc= "https//gemini.googkle.com/cw/"></a>
 </div>
 <div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
   <a href="https://learn.microsoft.com/dotnet/csharp/">
