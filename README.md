@@ -16,8 +16,8 @@
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini Logo">
   </a>
   <div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
-  <a href="https://gemini.google.com/">
-    <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Google Gemini Logo">
+  <a href="https://getbootstrap.com/">
+    <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
   </a>
 
 
