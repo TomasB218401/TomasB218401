@@ -19,7 +19,7 @@
 
   <div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
   <a href="https://es.wikipedia.org/wiki/CSS">
-    <img height="60" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
+    <img height="60" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg">
   </a>
     
 <div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
