@@ -14,15 +14,15 @@
   </a>
 </div>
 
-<!-- JavaScript, HTML5 y CSS en un solo bloque HTML para evitar que GitHub los separe -->
+<!-- Fila de JS, HTML5 y CSS en línea (HTML y CSS con fondo blanco) -->
 <p>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/" style="background-color: #1e1e1e; padding: 15px; border-radius: 8px; margin-right: 30px; display: inline-block;">
     <img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript Logo">
   </a>
-  <a href="https://es.wikipedia.org/wiki/HTML5/" style="background-color: #1e1e1e; padding: 15px; border-radius: 8px; margin-right: 30px; display: inline-block;">
+  <a href="https://es.wikipedia.org/wiki/HTML5/" style="background-color: #ffffff; padding: 15px; border-radius: 8px; margin-right: 30px; display: inline-block;">
     <img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5 Logo">
   </a>
-  <a href="https://es.wikipedia.org/wiki/CSS" style="background-color: #1e1e1e; padding: 15px; border-radius: 8px; display: inline-block;">
+  <a href="https://es.wikipedia.org/wiki/CSS" style="background-color: #ffffff; padding: 15px; border-radius: 8px; display: inline-block;">
     <img height="60" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg" alt="CSS Logo">
   </a>
 </p>
