@@ -11,6 +11,12 @@
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo">
   </a>
 </div>
+
+<div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
+  <a href="https://es.wikipedia.org/wiki/HTML5/">
+    <img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg">
+  </a>
+  
 <div style="background-color: #1e1e1e; padding: 15px; display: inline-block; border-radius: 8px;">
   <a href="https://getbootstrap.com/">
     <img height="60" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
